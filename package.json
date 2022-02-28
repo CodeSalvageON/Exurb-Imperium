@@ -1,0 +1,19 @@
+{
+  "name": "marsh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moby": "^1.1.2",
+    "powerthesaurus-api": "^2.0.3",
+    "thesaurus-com": "^1.2.3"
+  }
+}

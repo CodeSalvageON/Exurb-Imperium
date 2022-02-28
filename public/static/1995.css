@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: #d3e89c;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.option {
+  width: 300px;
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #d4ddb8;
+}
+
+.rounded-stuff {
+  border-radius: 8px;
+  border: 1px solid limegreen;
+}
+
+.flag {
+  border-radius: 7px;
+}
+
+#front-page {
+  margin: auto;
+  text-align: center;
+  position: relative;
+}
+
+#front-day, #front-day2 {
+  margin: auto;
+  width: 500px;
+  text-align: center;
+  position: relative;
+}
+
+#title {
+  width: 300px;
+  padding: 15px;
+  font-size: 35px;
+  display: flex;
+  border-radius: 6px;
+  font-family: 'Supermercado One', cursive;
+  background-color: #d3ddb8;
+}
+
+#topoutlet {
+  border-radius: 5px;
+}
+
+#unblockers {
+  border-radius: 5px;
+  background-color: #e9f594;
+}
+
+#gameplayer {
+  border-radius: 5px;
+  background-color: #a8c881;
+}
+
+#overflow {
+  margin: auto;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#width, #height {
+  width: 50px;
+}
+
+#casino {
+  border-radius: 5px;
+  background-color: yellowgreen;
+}
