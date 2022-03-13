@@ -11,9 +11,6 @@ app.use(bodyParser.json());
 app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 
-const uptime = require("uptime-express");
-uptime.start(3000);
-
 app.get('/', function (req, res) {
   const index = __dirname + '/public/static/index.html';
 
